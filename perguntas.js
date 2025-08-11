@@ -5,7 +5,7 @@ criaCartao(
 )
 criaCartao(
     'super heroi marvel' ,
-    qual personagem usa um martelo',
+    'qual personagem usa um martelo',
     'thor'
 )
 criaCartao(
